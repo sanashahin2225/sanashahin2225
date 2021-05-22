@@ -10,6 +10,13 @@
       <a href="https://www.linkedin.com/in/sana-shahin-1924a6b8/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
       <a href="mailto:sanashahin2225@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
+### Github Stats
+
+<p align="center">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sanashahin2225&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide=contribs" alt="GitHub stats"  height="160px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanashahin2225&layout=compact&langs_count=7&theme=nightowl" alt="Most used Languages" height="160px" />
+</p>
+
 ## 👩‍💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
