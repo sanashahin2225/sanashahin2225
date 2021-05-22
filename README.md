@@ -1,4 +1,4 @@
-![Picture1](https://user-images.githubusercontent.com/40853082/119226795-cf0a2300-babf-11eb-8ac1-fc11e3ca5f77.png)
+![picture2](https://user-images.githubusercontent.com/40853082/119226833-f6f98680-babf-11eb-8bdb-66f175373036.png)
 
 - 👋 Hi, I’m a DevOps Engineer
 - 👀 I’m interested in Coding using Python
