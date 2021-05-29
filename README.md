@@ -1,5 +1,4 @@
-![Chillwave Mix](https://user-images.githubusercontent.com/40853082/120069492-0e45f000-c03b-11eb-8ea7-ba7a40e9c405.png)
-
+![picture2](https://user-images.githubusercontent.com/40853082/119226833-f6f98680-babf-11eb-8bdb-66f175373036.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
