@@ -2,9 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 👋 Hi, I’m a Software Engineer Working in a DevOps Domain
-- 👀 I’m interested in Coding using Python
-- 🌱 I’m Software Engineer and Coding is my passion.
+- 👋 Hi, I’m a DevOps Engineer.
+- 👀 I love Coding.
 - 💞️ I’m looking to collaborate on projects related to DevOps and its tools
 
 
