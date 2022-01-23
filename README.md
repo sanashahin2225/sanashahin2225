@@ -1,4 +1,4 @@
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/40853082/121804594-fbffb080-cbfb-11eb-9921-7e621445de6c.gif)
+![Picture1](https://user-images.githubusercontent.com/40853082/150693185-ca53441a-83c8-4215-a3f7-9e255e2f64c3.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
