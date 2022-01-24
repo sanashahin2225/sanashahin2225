@@ -22,7 +22,7 @@
 
 ## 👩‍💻 Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=pythonlogoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=pythonlogoColor=white&color=ff69b4)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
