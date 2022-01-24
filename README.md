@@ -2,7 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 👋 Hi, I’m a DevOps Engineer.
+- 👋 Hi, I’m Sana and I'm a Software Engineer.
+- 🔭 I'm currently working on DevOps and Web Development.
 - 👀 I love Coding.
 - 💞️ I’m looking to collaborate on projects related to DevOps, Python and Django
 
