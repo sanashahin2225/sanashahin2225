@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m a DevOps Engineer.
 - 👀 I love Coding.
-- 💞️ I’m looking to collaborate on projects related to DevOps and its tools
+- 💞️ I’m looking to collaborate on projects related to DevOps, Python and Django
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sanashahin2225"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
