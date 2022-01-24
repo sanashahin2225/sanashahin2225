@@ -37,7 +37,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=ff69b4)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
 
