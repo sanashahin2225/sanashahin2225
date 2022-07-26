@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 👋 Hi, I’m Sana and I'm a Software Engineer.
+- 👋 I'm a Software Engineer at Oracle.
 - 🔭 I'm currently working on DevOps and Web Development.
 - 👀 I love Coding.
 - 💞️ I’m looking to collaborate on projects related to DevOps, Python and Django
@@ -10,7 +10,7 @@
 
 ## Find me around the web 🌎: <a href="https://github.com/sanashahin2225"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Learning in public on <a href="https://sanashahin.tech">sanashahin</a> 📹 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/sana-shahin-1924a6b8/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/sana-shahin-1924a6b8/">https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge</a> 💼
 - Mail me on <a href="mailto:sanashahin2225@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
