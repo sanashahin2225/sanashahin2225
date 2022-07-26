@@ -1,4 +1,6 @@
-![Picture1](https://user-images.githubusercontent.com/40853082/150693185-ca53441a-83c8-4215-a3f7-9e255e2f64c3.png)
+# Hi, I'm Sana 👋🏾 👩🏾‍💻
+
+![Picture1](https://user-images.githubusercontent.com/40853082/180990638-a961993a-d0e0-4f09-953b-508170fe2143.png)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
