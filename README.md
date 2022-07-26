@@ -24,10 +24,6 @@
 ## 👩‍💻 Languages
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white&color=ff69b4)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC&color=blue)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&color=blue)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=ff69b4)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
