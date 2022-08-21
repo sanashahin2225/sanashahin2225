@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 👋 I'm a Software Engineer at Oracle.
+- 👋 I'm a Application Engineer at Oracle.
 - 🔭 I'm currently working on DevOps and Web Development.
 - 👀 I love Coding.
 - 💞️ I’m looking to collaborate on projects related to DevOps, Python and Django
